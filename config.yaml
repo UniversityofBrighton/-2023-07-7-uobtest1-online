@@ -60,11 +60,11 @@ contact: 'k.rodriguez@brighton.ac.uk' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
-- first-steps.md
+# - first-steps.md
 
 # Information for Learners
 learners: 
-  - setup.md
+  # - setup.md
   
 # Information for Instructors
 instructors: 
