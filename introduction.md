@@ -7,6 +7,8 @@ exercises: 2
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - How do you write a lesson using R Markdown and `{sandpaper}`?
+- How is the data managed during its life cycle?
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -14,6 +16,7 @@ exercises: 2
 
 - Explain how to use markdown with the new lesson template
 - Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Explain the key stages that data must pass in order to be created, processed, protected by copyright and given access for further reuse.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
